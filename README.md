@@ -16,30 +16,39 @@ Segue link para apresentação do aplicativo.
 ## Demo
 
 - Cadastro
+
 ![img](https://github.com/josemailson/Happy-Money-App/blob/main/web/icons/cadastro.gif?raw=true)
 
 - Adicione suas receitas e despesas
+
 ![img](https://github.com/josemailson/Happy-Money-App/blob/main/web/icons/adicionar_transacao.gif?raw=true)
 
 - Página de receitas e despesas
+
 ![img](https://github.com/josemailson/Happy-Money-App/blob/main/web/icons/paginas_receitas_despesas.gif?raw=true)
 
 - Área de transações recentes
+
 ![img](https://github.com/josemailson/Happy-Money-App/blob/main/web/icons/area_transacoes_recentes.gif?raw=true)
 
 - Acompanhar por gráficos o quanto da suas receita você ainda possui
+
 ![img](https://github.com/josemailson/Happy-Money-App/blob/main/web/icons/area_graficos_home.gif?raw=true)
 
 - Área de educação financeira
+
 ![img](https://github.com/josemailson/Happy-Money-App/blob/main/web/icons/area_educacao_financeira.gif?raw=true)
 
 - Página de transações
+
 ![img](https://github.com/josemailson/Happy-Money-App/blob/main/web/icons/pagina_transacoes.gif?raw=true)
 
 - Página de gráfico de despesas por categoria
+
 ![img](https://github.com/josemailson/Happy-Money-App/blob/main/web/icons/pagina_grafico.gif?raw=true)
 
 - Página de perfil do usuário
+
 ![img](https://github.com/josemailson/Happy-Money-App/blob/main/web/icons/pagina_perfil.gif?raw=true)
 
 ## Feedback
